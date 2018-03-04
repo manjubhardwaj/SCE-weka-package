@@ -7,7 +7,7 @@ This package implements Self Chastising Ensemble (SCE), an SVM-based classificat
 
 Releases
 --------
-2018.3.4
+2018.3.5
 
 
 How to Use Packages
