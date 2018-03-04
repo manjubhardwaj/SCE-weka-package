@@ -1,0 +1,43 @@
+# Description file for SCE
+#
+# 
+
+# Package name (required)
+PackageName=SCE
+
+# Version (required)
+Version=1.0.0
+
+#Date
+Date=2018-03-05
+
+# Title (required)
+Title=A wrapper class for SCE
+
+Category=Classification
+
+# Author (required)
+Author= Manju Bhardwaj <mbhardwaj@maitreyi.du.ac.in>, Dhruv Sharma, Mohammad Ashique Nawaz
+
+# Maintainer (required)
+Maintainer= Manju Bhardwaj <mbhardwaj@maitreyi.du.ac.in>, Vasudha Bhatnagar <vbhatnagar@cs.du.ac.in>, Debasis Dash <ddash@igib.in>
+
+# License (required)
+License=GPL 3.0
+
+# Description (required)
+Description= A wrapper class to generate an SVM-based ensemble using SCE (Self-Chastising Ensemble) Technique
+
+Changes=Updated Weka dependency to >=3.9.0.
+
+# Package URL for obtaining the package archive (required)
+PackageURL= https://github.com/manjubhardwaj/SCE-weka-package\
+
+# URL for further information
+URL=https://github.com/manjubhardwaj/SCE-weka-package
+
+# Related to other packages?
+#Related=LibSVM
+
+# Dependencies
+Depends=weka (>=3.9.0)
