@@ -4,15 +4,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.manjubhardwaj</groupId>
-  <artifactId>SCE</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <artifactId>SCE-weka-package</artifactId>
+  <version>2018.3.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>SCE</name>
   <description>
   A wrapper class for SVM-based ensemble using SCE (Self-Chastising Ensemble) technique. The ensemble uses C-SVM (LIBSVM implemntation) as base classifier.
   </description>
-  <url>http://github.com/manjubhardwaj/SCE-package</url>
+  <url>http://github.com/manjubhardwaj/SCE-weka-package</url>
   <organization>
     <name>University of Delhi, Delhi, India</name>
     <url>http://www.du.ac.in</url>
@@ -36,7 +36,7 @@
       <name>Mohammad Ashique Nawaz</name>
       <email>ashique.mca.du.2015@gmail.com</email>
     </developer>
-<developer>
+    <developer>
       <id>mbhardwaj</id>
       <name>Manju Bhardwaj</name>
       <email>mbhardwaj@maitreyi.du.ac.in</email>
@@ -59,9 +59,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:https://github.com/manjubhardwaj/SCE-package</connection>
-    <developerConnection>scm:git:https://github.com/manjubhardwaj/SCE-package</developerConnection>
-    <url>https://github.com/manjubhardwaj/SCE-package</url>
+    <connection>scm:git:https://github.com/manjubhardwaj/SCE-weka-package</connection>
+    <developerConnection>scm:git:https://github.com/manjubhardwaj/SCE-weka-package</developerConnection>
+    <url>https://github.com/manjubhardwaj/SCE-weka-package</url>
   </scm>
 
   <profiles>
