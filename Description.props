@@ -31,7 +31,7 @@ Description= A wrapper class to generate an SVM-based ensemble using SCE (Self-C
 Changes=Updated Weka dependency to >=3.9.0.
 
 # Package URL for obtaining the package archive (required)
-PackageURL= https://github.com/manjubhardwaj/SCE-weka-package\
+PackageURL= https://github.com/manjubhardwaj/SCE-weka-package/releases/tag/2018.3.5
 
 # URL for further information
 URL=https://github.com/manjubhardwaj/SCE-weka-package
