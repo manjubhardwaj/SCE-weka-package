@@ -10,7 +10,7 @@
 
   <name>SCE</name>
   <description>
-  A wrapper class for SVM-based ensemble using SCE (Self-Chastising Ensemble) technique. The ensemble uses C-SVM (LIBSVM implemntation) as base classifier.
+  A wrapper class for SVM-based ensemble using SCE (Self-Chastising Ensemble) technique. The ensemble uses C-SVM (LIBSVM implementation) as base classifier.
   </description>
   <url>http://github.com/manjubhardwaj/SCE-weka-package</url>
   <organization>
